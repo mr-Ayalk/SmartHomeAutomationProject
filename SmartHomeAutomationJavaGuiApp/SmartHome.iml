@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/SmartHome/SmartHome/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/mysql-connector-j-9.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../jfreechart-1.0.19/jfreechart-1.0.19/experimental" />
+          <root url="file://$MODULE_DIR$/../../jfreechart-1.0.19/jfreechart-1.0.19/source" />
+          <root url="file://$MODULE_DIR$/../../jfreechart-1.0.19/jfreechart-1.0.19/swt" />
+          <root url="file://$MODULE_DIR$/../../jfreechart-1.0.19/jfreechart-1.0.19/tests" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="experimental" level="project" />
+    <orderEntry type="library" name="experimental1" level="project" />
+    <orderEntry type="library" name="jfreechart-1.5.3-javadoc" level="project" />
+    <orderEntry type="library" name="jfreechart-1.5.3" level="project" />
+    <orderEntry type="library" exported="" name="jSerialComm-2.11.0" level="project" />
+  </component>
+</module>
